@@ -73,7 +73,7 @@
         /// <summary>
         /// Add the node to the end of the list
         /// </summary>
-        /// <param name="value">The node to add</param>
+        /// <param name="node">The node to add</param>
         public void AddLast(LinkedListNode<T> node)
         {
             if (Count == 0)
